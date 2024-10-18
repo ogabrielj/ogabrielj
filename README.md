@@ -1,10 +1,10 @@
-<h4 align="center"><samp> Hi there 👋🏾  welcome to my Github! I'm an Open Source Contributor and Professional Yak Shaver. I also like Python and I'm exploring Cloud Tech 🐍 ☁️ </samp></h4>
+<h2 align="center"><samp> Hi 👋🏾 Welcome to my Github! </samp></h2>
 
 <p align="center">
 
 <h4 align="center"><samp> 🇧🇷 EU NÃO ME RESPONSABILIZO PELO USO INADEQUADO DAS FERRAMENTAS QUE DESENVOLVI, PORTANTO, CADA UM COM SEUS PROBLEMAS. </samp></h4>
-<h4 align="center"><samp> 🇷🇺 Я не несу ответственности за неправильное использование разработанных мной инструментов, поэтому каждый отвечает за свои проблемы. </samp></h4>
-<h4 align="center"><samp> 🇺🇸 I am not responsible for the improper use of the tools I developed, so each person is responsible for their own problems. </samp></h4>
+<h4 align="center"><samp> 🇷🇺 Я НЕ НЕСУ ОТВЕТСТВЕННОСТИ ЗА НЕПРАВИЛЬНОЕ ИСПОЛЬЗОВАНИЕ РАЗРАБОТАННЫХ МНОЙ ИНСТРУМЕНТОВ, ПОЭТОМУ КАЖДЫЙ ОТВЕЧАЕТ ЗА СВОИ ПРОБЛЕМЫ. </samp></h4>
+<h4 align="center"><samp> 🇺🇸 I AM NOT RESPONSIBLE FOR THE IMPROPER USE OF THE TOOLS I DEVELOPED, SO EACH PERSON IS RESPONSIBLE FOR THEIR OWN PROBLEMS. </samp></h4>
 
 </p>
 
