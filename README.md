@@ -2,9 +2,9 @@
 
 <p align="center">
 
-<h4 align="center"><samp> 🇧🇷  𝗘𝗨 𝗡𝗔𝗢 𝗠𝗘 𝗥𝗘𝗦𝗣𝗢𝗡𝗦𝗔𝗕𝗜𝗟𝗜𝗭𝗢 𝗣𝗘𝗟𝗢 𝗨𝗦𝗢 𝗜𝗡𝗔𝗗𝗘𝗤𝗨𝗔𝗗𝗢  𝗗𝗔𝗦 𝗙𝗘𝗥𝗥𝗔𝗠𝗘𝗡𝗧𝗔𝗦 𝗖𝗥𝗜𝗔𝗗𝗢 𝗣𝗢𝗥 𝗠𝗜𝗠. 𝗘𝗡𝗧𝗔𝗢 𝗖𝗔𝗗𝗔 𝗨𝗠 𝗖𝗢𝗠 𝗦𝗘𝗨𝗦 𝗣𝗥𝗢𝗕𝗟𝗘𝗠𝗔𝗦. </samp></h4><br>
-<h4 align="center"><samp> 🇷🇺  Я НЕ НЕСУ ОТВЕТСТВЕННОСТИ ЗА НЕПРАВИЛЬНОЕ ИСПОЛЬЗОВАНИЕ СОЗДАННЫХ МНОЙ ИНСТРУМЕНТОВ. ТАК У КАЖДОГО СВОИ ПРОБЛЕМЫ. </samp></h4><br>
-<h4 align="center"><samp> 🇺🇸  𝗜 𝗗𝗢 𝗡𝗢𝗧 𝗧𝗔𝗞𝗘 𝗥𝗘𝗦𝗣𝗢𝗡𝗦𝗜𝗕𝗜𝗟𝗜𝗧𝗬 𝗙𝗢𝗥 𝗧𝗛𝗘 𝗜𝗡𝗔𝗣𝗣𝗥𝗢𝗣𝗥𝗜𝗔𝗧𝗘 𝗨𝗦𝗘 𝗢𝗙 𝗧𝗛𝗘 𝗧𝗢𝗢𝗟𝗦 𝗖𝗥𝗘𝗔𝗧𝗘𝗗 𝗕𝗬 𝗠𝗘. 𝗦𝗢 𝗘𝗩𝗘𝗥𝗬𝗢𝗡𝗘 𝗛𝗔𝗦 𝗧𝗛𝗘𝗜𝗥 𝗢𝗪𝗡 𝗣𝗥𝗢𝗕𝗟𝗘𝗠𝗦. </samp></h4><br>
+<h4 align="center"><samp> 🇧🇷  𝗘𝗨 𝗡𝗔𝗢 𝗠𝗘 𝗥𝗘𝗦𝗣𝗢𝗡𝗦𝗔𝗕𝗜𝗟𝗜𝗭𝗢 𝗣𝗘𝗟𝗢 𝗨𝗦𝗢 𝗜𝗡𝗔𝗗𝗘𝗤𝗨𝗔𝗗𝗢  𝗗𝗔𝗦 𝗙𝗘𝗥𝗥𝗔𝗠𝗘𝗡𝗧𝗔𝗦 𝗖𝗥𝗜𝗔𝗗𝗢 𝗣𝗢𝗥 𝗠𝗜𝗠. 𝗘𝗡𝗧𝗔𝗢 𝗖𝗔𝗗𝗔 𝗨𝗠 𝗖𝗢𝗠 𝗦𝗘𝗨𝗦 𝗣𝗥𝗢𝗕𝗟𝗘𝗠𝗔𝗦. </samp></h4>
+<h4 align="center"><samp> 🇷🇺  Я НЕ НЕСУ ОТВЕТСТВЕННОСТИ ЗА НЕПРАВИЛЬНОЕ ИСПОЛЬЗОВАНИЕ СОЗДАННЫХ МНОЙ ИНСТРУМЕНТОВ. ТАК У КАЖДОГО СВОИ ПРОБЛЕМЫ. </samp></h4>
+<h4 align="center"><samp> 🇺🇸  𝗜 𝗗𝗢 𝗡𝗢𝗧 𝗧𝗔𝗞𝗘 𝗥𝗘𝗦𝗣𝗢𝗡𝗦𝗜𝗕𝗜𝗟𝗜𝗧𝗬 𝗙𝗢𝗥 𝗧𝗛𝗘 𝗜𝗡𝗔𝗣𝗣𝗥𝗢𝗣𝗥𝗜𝗔𝗧𝗘 𝗨𝗦𝗘 𝗢𝗙 𝗧𝗛𝗘 𝗧𝗢𝗢𝗟𝗦 𝗖𝗥𝗘𝗔𝗧𝗘𝗗 𝗕𝗬 𝗠𝗘. 𝗦𝗢 𝗘𝗩𝗘𝗥𝗬𝗢𝗡𝗘 𝗛𝗔𝗦 𝗧𝗛𝗘𝗜𝗥 𝗢𝗪𝗡 𝗣𝗥𝗢𝗕𝗟𝗘𝗠𝗦. </samp></h4>
 
 </p>
 
