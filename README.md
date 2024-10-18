@@ -2,8 +2,7 @@
 
 <p align="center">
 
- <img width="560" src="https://gifyu.com/image/SBeXu">
-</p>
+<img width="30" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTc1NWc3aHU3bndsZHc4ZWhnZHE0aDZpN3pxdTZvNnlyOHpqcDd2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/V03Zljpcv9ePe9DWsr/giphy.gif">
 
 <p>
   <img width="750" src="https://img.wattpad.com/9a093deababeebf442002ea696805ceb699a810d/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f63454b67744c796747387a5464513d3d2d3436303833313333312e313464653730373930336362326139353438353530303731363634372e676966?s=fit&w=460&h=460">
