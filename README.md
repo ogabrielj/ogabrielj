@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<h6 align="center"> 🇧🇷 EU NÃO ME RESPONSABILIZO PELO USO INADEQUADO  DAS FERRAMENTAS CRIADO POR MIM. ENTÃO CADA UM COM SEUS PROBLEMAS. </h6>
+<h6 align="center"> 🇧🇷 Eu não me responsabilizo pelo uso inadequado das ferramentas que desenvolvi, portanto, cada um com seus problemas. </h6>
 <h6 align="center"> 🇷🇺 Я НЕ НЕСУ ОТВЕТСТВЕННОСТИ ЗА НЕПРАВИЛЬНОЕ ИСПОЛЬЗОВАНИЕ СОЗДАННЫХ МНОЙ ИНСТРУМЕНТОВ. ТАК У КАЖДОГО СВОИ ПРОБЛЕМЫ. </h6>
 <h6 align="center"> 🇺🇸 I DO NOT TAKE RESPONSIBILITY FOR THE INAPPROPRIATE USE OF THE TOOLS CREATED BY ME. SO EVERYONE HAS THEIR OWN PROBLEMS.</h6>
 
