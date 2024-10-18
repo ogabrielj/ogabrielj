@@ -14,7 +14,7 @@
 
 
 <p align="center">
-<a href= "https://pornocarioca.com"><img src="https://freepnglogo.com/images/all_img/1725374683twitter-x-logo.png" width="30"/></a>
+<a href= "https://www.pornocarioca.com/"><img src="https://freepnglogo.com/images/all_img/1725374683twitter-x-logo.png" width="30"/></a>
 </p>
 
 <p align="center"><samp>
