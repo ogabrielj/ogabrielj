@@ -3,6 +3,7 @@
 <p align="center">
 
 <h4 align="center"><samp> 🇧🇷 Eu não me responsabilizo pelo uso inadequado das ferramentas que desenvolvi, portanto, cada um com seus problemas. </samp></h4>
+<h4 align="center"><samp> 🇧🇷 EU NÃO ME RESPONSABILIZO PELO USO INADEQUADO DAS FERRAMENTAS QUE DESENVOLVI, PORTANTO, CADA UM COM SEUS PROBLEMAS. </samp></h4>
 <h6 align="center"> 🇷🇺 Я НЕ НЕСУ ОТВЕТСТВЕННОСТИ ЗА НЕПРАВИЛЬНОЕ ИСПОЛЬЗОВАНИЕ СОЗДАННЫХ МНОЙ ИНСТРУМЕНТОВ. ТАК У КАЖДОГО СВОИ ПРОБЛЕМЫ. </h6>
 <h6 align="center"> 🇺🇸 I DO NOT TAKE RESPONSIBILITY FOR THE INAPPROPRIATE USE OF THE TOOLS CREATED BY ME. SO EVERYONE HAS THEIR OWN PROBLEMS.</h6>
 
